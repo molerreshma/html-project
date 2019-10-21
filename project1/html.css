@@ -1,0 +1,80 @@
+
+html,body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+
+}
+.main
+{
+	padding:60px 40px 50px 40px;
+	background:#138D8D;
+}
+#intro
+{
+font family:"Times New Roman,Times,serif";
+	}
+	i,b
+	{
+	color:white;
+
+	}
+	ul
+	{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: black;
+
+	}
+	.header
+	{
+		overflow: hidden;
+		background-color: #333;
+		position: fixed;
+		top: 0;
+		width: 100%;
+
+		word-spacing:30px;
+		height: 50px;
+		margin-top: 2px;
+	}
+	.e
+	{
+		width: 60%;
+		float: left;
+
+	}
+	.i
+	{
+       width: 40%;
+       float: right;
+	}
+	.m
+	{
+		display: inline-block;
+	}
+	#gh
+	{
+		background-color: green;
+		text-align: center;
+		margin-left: 2%;
+
+
+	}
+	.footer
+	{
+		column-count: 3;
+		background-color: grey;
+	}
+
+ li a
+ {
+	display:black;
+	color: white;
+	float: left;
+	padding: 10px 17px;
+	text-align: center;
+}
